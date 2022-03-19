@@ -3,7 +3,7 @@
 #include<conio.h>
 void main()
 {
-	printf("SHUBHAM\N")
+	printf("SHUBHAM\n")
 	printf("Hello!");
 	getch();
 }
